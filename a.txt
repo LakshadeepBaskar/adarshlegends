@@ -8,3 +8,4 @@ else:
     print("sleep")
     print("drink milk")
     print("good night")
+    print("sexy night")
