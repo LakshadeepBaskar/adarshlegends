@@ -1,0 +1,10 @@
+mood=input("Enter your mood:")
+if mood =="Romance":
+    print("kiss")
+    print("Hug")
+    print("byte")
+    print("sleep well")
+else:
+    print("sleep")
+    print("drink milk")
+    print("good night")
